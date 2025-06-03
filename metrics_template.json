@@ -1,0 +1,101 @@
+{
+  "website_metrics": {
+    "traffic": {
+      "total_visitors": 0,
+      "unique_visitors": 0,
+      "average_session_duration": 0,
+      "pages_per_session": 0
+    },
+    "performance": {
+      "page_load_time": 0,
+      "mobile_friendliness_score": 0,
+      "bounce_rate": 0,
+      "exit_rate": 0
+    },
+    "seo": {
+      "organic_search_ranking": 0,
+      "keyword_rankings": [],
+      "backlink_count": 0,
+      "domain_authority": 0
+    }
+  },
+  "social_media_metrics": {
+    "facebook": {
+      "followers": 0,
+      "engagement_rate": 0,
+      "post_frequency": 0,
+      "average_reach": 0
+    },
+    "instagram": {
+      "followers": 0,
+      "engagement_rate": 0,
+      "post_frequency": 0,
+      "average_reach": 0
+    },
+    "twitter": {
+      "followers": 0,
+      "engagement_rate": 0,
+      "post_frequency": 0,
+      "average_reach": 0
+    },
+    "linkedin": {
+      "followers": 0,
+      "engagement_rate": 0,
+      "post_frequency": 0,
+      "average_reach": 0
+    }
+  },
+  "local_presence_metrics": {
+    "google_my_business": {
+      "rating": 0,
+      "review_count": 0,
+      "listing_completeness": 0,
+      "photo_count": 0
+    },
+    "local_directories": {
+      "listing_count": 0,
+      "consistency_score": 0,
+      "review_sites_presence": 0
+    }
+  },
+  "advertising_metrics": {
+    "ppc": {
+      "click_through_rate": 0,
+      "cost_per_click": 0,
+      "conversion_rate": 0,
+      "cost_per_acquisition": 0
+    },
+    "display_ads": {
+      "impressions": 0,
+      "click_through_rate": 0,
+      "conversion_rate": 0,
+      "cost_per_acquisition": 0
+    }
+  },
+  "content_marketing_metrics": {
+    "blog": {
+      "post_frequency": 0,
+      "average_time_on_page": 0,
+      "social_shares": 0
+    },
+    "email": {
+      "subscriber_count": 0,
+      "open_rate": 0,
+      "click_through_rate": 0,
+      "conversion_rate": 0
+    }
+  },
+  "business_impact_metrics": {
+    "lead_generation": {
+      "total_leads": 0,
+      "lead_conversion_rate": 0,
+      "cost_per_lead": 0
+    },
+    "roi_metrics": {
+      "marketing_roi": 0,
+      "customer_acquisition_cost": 0,
+      "customer_lifetime_value": 0,
+      "return_on_ad_spend": 0
+    }
+  }
+}
